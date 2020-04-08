@@ -21,7 +21,7 @@ ll BigMod(ll base, ll power, ll mod)
     else if(power%2==0) // if power is even
     {
         int a = (BigMod(base,power/2,mod))%mod;
-        return (a*a)%mod;N
+        return (a*a)%mod;
     }
 }
 
