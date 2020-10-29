@@ -1,4 +1,4 @@
-![CP Algorithms Implementation](https://github.com/Remonhasan/programming-solve/blob/master/cp-slove.png)
+![CP Algorithms Implementation](https://github.com/Remonhasan/algorithm/blob/master/algorithms-implementation.png)
 ***
 
 <p align="center">
